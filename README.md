@@ -1,7 +1,7 @@
 # Machine-Learning-Implementations
 A collection of implementations and experiments covering fundamental machine learning algorithms, model training, optimization, and practical applications using Python and popular machine learning libraries.
 
-This repository contains implementations and experiments developed as part of the **Machine Learning** course at the **Department of Computer Engineering, Sharif University of Technology**, taught by **Dr. Sharifi-Zarchi**.
+This repository contains implementations and experiments developed as part of the **Machine Learning** course at the **Department of Computer Engineering, Sharif University of Technology**.
 
 ## Topics
 
